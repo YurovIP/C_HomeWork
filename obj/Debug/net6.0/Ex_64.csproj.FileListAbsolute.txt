@@ -1,0 +1,15 @@
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.csproj.AssemblyReference.cache
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.GeneratedMSBuildEditorConfig.editorconfig
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.AssemblyInfoInputs.cache
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.AssemblyInfo.cs
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.csproj.CoreCompileInputs.cache
+J:\C#\HomeWork\Less_09\Ex_64\bin\Debug\net6.0\Ex_64.exe
+J:\C#\HomeWork\Less_09\Ex_64\bin\Debug\net6.0\Ex_64.deps.json
+J:\C#\HomeWork\Less_09\Ex_64\bin\Debug\net6.0\Ex_64.runtimeconfig.json
+J:\C#\HomeWork\Less_09\Ex_64\bin\Debug\net6.0\Ex_64.dll
+J:\C#\HomeWork\Less_09\Ex_64\bin\Debug\net6.0\Ex_64.pdb
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.dll
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\refint\Ex_64.dll
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.pdb
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\Ex_64.genruntimeconfig.cache
+J:\C#\HomeWork\Less_09\Ex_64\obj\Debug\net6.0\ref\Ex_64.dll
